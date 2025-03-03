@@ -1,0 +1,10 @@
+{
+    "visualization": "radar-chart",
+    "name": "Radar Chart",
+    "type": "community",
+    "data": {
+      "type": "table"
+    },
+    "script": "https://ludayc.github.io/radar-chart.js"
+  }
+  
